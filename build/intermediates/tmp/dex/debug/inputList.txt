@@ -1,0 +1,3 @@
+D:\devmobile\KiiAndroidSDKTutorial\KiiAndroidSDKTutorial\build\intermediates\classes\debug
+D:\devmobile\KiiAndroidSDKTutorial\KiiAndroidSDKTutorial\build\intermediates\pre-dexed\debug\KiiCloudStorageSDK_release_v2.1.30_8debad4-581f5a1dc9ceaa46b36a0301d6f694c4bbe8eb02.jar
+D:\devmobile\KiiAndroidSDKTutorial\KiiAndroidSDKTutorial\build\intermediates\pre-dexed\debug\android-support-v4-98de264eeb77eb486c7eb600d67fa6031daf0993.jar

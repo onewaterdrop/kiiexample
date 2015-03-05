@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\devmobile\KiiAndroidSDKTutorial\KiiAndroidSDKTutorial\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="D:\devmobile\KiiAndroidSDKTutorial\KiiAndroidSDKTutorial\build\intermediates\pre-dexed\debug\android-support-v4-98de264eeb77eb486c7eb600d67fa6031daf0993.jar" />
+    </item>
+    <item
+        jar="D:\devmobile\KiiAndroidSDKTutorial\KiiAndroidSDKTutorial\libs\KiiCloudStorageSDK_release_v2.1.30_8debad4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e1921ae81d85480a3a9f657465c453381f4f84fc">
+        <dex dex="D:\devmobile\KiiAndroidSDKTutorial\KiiAndroidSDKTutorial\build\intermediates\pre-dexed\debug\KiiCloudStorageSDK_release_v2.1.30_8debad4-581f5a1dc9ceaa46b36a0301d6f694c4bbe8eb02.jar" />
+    </item>
+
+</items>
